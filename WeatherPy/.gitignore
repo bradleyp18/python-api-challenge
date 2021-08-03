@@ -1,0 +1,6 @@
+# Config File to hide
+api_keys.py
+
+# Additional Files to hide 
+API_practice.ipynb
+random_numbers.ipynb
